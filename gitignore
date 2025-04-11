@@ -1,0 +1,30 @@
+
+# Ignore build and debug folders
+Debug/
+Release/
+x64/
+build/
+
+# Ignore temporary and user-specific files
+*.obj
+*.exe
+*.log
+*.sdf
+*.opensdf
+*.VC.db
+*.ipch
+*.tlog
+*.user
+*.pch
+*.idb
+*.class
+*.aps
+*.ncb
+*.suo
+*.cache
+*.ilk
+
+# Ignore Visual Studio specific files
+*.vcxproj.user
+*.VC.db
+*.vscode/
