@@ -13,7 +13,7 @@ It uses modular classes to represent different chess pieces, the board, and the 
 - Board state management
 - Custom lightweight graphics interface (`chessGraphics`)
 
----
+---_
 
 ## 🧠 Skills Demonstrated
 - C++ object-oriented programming and polymorphism
