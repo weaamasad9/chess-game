@@ -73,5 +73,5 @@ This project was developed as a personal challenge to build a working chess game
 
 ## 👤 Author
 
-Developed by a second-year Software Engineering student at Braude College,  
+Developed by me as a personal project :) 
 , with high motivation, strong self-learning ability, and love for challenges and building things from scratch.
